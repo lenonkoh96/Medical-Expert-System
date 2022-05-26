@@ -1,0 +1,8 @@
+Asthma
+Diabetes
+Heat Stroke
+Hypothermia
+Alzheimers
+Tuberculosis
+Heart Disease
+Epilepsy
